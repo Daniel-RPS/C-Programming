@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525376196 source:c:\users\dan2017dsk\desktop\programação em c\linguagem c na prática\validar numero entre 100 e 200\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1525223953 source:c:\users\dan2017dsk\desktop\programação em c\linguagem c na prática\número ao quadrado\main.c
+	<stdio.h>
+	<stdlib.h>
+

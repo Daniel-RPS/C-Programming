@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1524932204 source:c:\users\dan2017dsk\desktop\programação em c\string com c mais mais\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<stdio.h>
+

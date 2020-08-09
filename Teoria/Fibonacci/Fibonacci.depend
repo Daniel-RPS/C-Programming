@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1526415896 source:c:\users\dan2017dsk\desktop\programação em c\teoria\fibonacci\main.c
+	"stdio.h"
+
+1526424279 source:c:\users\dan2017dsk\desktop\programação em c\teoria\fibonacci\fibonacci.c
+	"stdio.h"
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1524935761 source:c:\users\dan2017dsk\desktop\programação em c\matrizes\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<stdio.h>
+

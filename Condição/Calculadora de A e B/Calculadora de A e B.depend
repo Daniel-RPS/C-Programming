@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1525614678 source:c:\users\dan2017dsk\desktop\programação em c\linguagem c na prática\calculadora de a e b\main.c
+	<stdio.h>
+	<stdlib.h>
+
